@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/gt-Lee/gt-Lee.github.io.git</id>
+    <title>More Than Now</title>
+    <updated>2020-04-20T03:43:12.794Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/gt-Lee/gt-Lee.github.io.git"/>
+    <link rel="self" href="https://github.com/gt-Lee/gt-Lee.github.io.git/atom.xml"/>
+    <subtitle>我和我的路途</subtitle>
+    <logo>https://github.com/gt-Lee/gt-Lee.github.io.git/images/avatar.png</logo>
+    <icon>https://github.com/gt-Lee/gt-Lee.github.io.git/favicon.ico</icon>
+    <rights>All rights reserved 2020, More Than Now</rights>
+    <entry>
+        <title type="html"><![CDATA[知识储备有限，如何做好问题分析]]></title>
+        <id>https://github.com/gt-Lee/gt-Lee.github.io.git/post/zhi-shi-chu-bei-you-xian-ru-he-zuo-hao-wen-ti-fen-xi/</id>
+        <link href="https://github.com/gt-Lee/gt-Lee.github.io.git/post/zhi-shi-chu-bei-you-xian-ru-he-zuo-hao-wen-ti-fen-xi/">
+        </link>
+        <updated>2019-12-06T09:00:03.000Z</updated>
+    </entry>
+</feed>
